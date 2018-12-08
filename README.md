@@ -1,0 +1,2 @@
+# VSSUT-ASME
+This repository contains the source code of a website for a club of my University. The name of the club is VSSUT ASME and it's basically a technical club that promotes collaboration, knowledge sharing, career enrichment, skill development and much more. ASME serves this wide-ranging technical community through quality programs in continuing education, training and professional development, codes and standards, research, conferences and publications, government relations and other forms of outreach.
